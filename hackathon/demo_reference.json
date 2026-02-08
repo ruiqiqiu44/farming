@@ -1,0 +1,3042 @@
+[
+  {
+    "timestamp": 0.0,
+    "elbow_angle": 150.17677047946384,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.4973257397238707,
+      0.8675638930984306
+    ],
+    "position_3d": [
+      0.0,
+      0.17406400890335472,
+      -0.3036473625844507
+    ],
+    "acceleration_magnitude": 2.551645257223976,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 10.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 982.322952053616,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 6.075045799548348,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 20.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 12.224349536759577,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 30.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 19.516852746718637,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 40.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 26.92606220397918,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 50.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 33.793162806059264,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 60.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 39.73945058200978,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 70.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 44.583312460364844,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 80.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 48.29886230566724,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 90.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 50.978497664858374,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 100.0,
+    "elbow_angle": 1.490483695517753,
+    "angular_velocity": -15850.951630448224,
+    "position_2d": [
+      0.026010914016922817,
+      -0.9996616589386652
+    ],
+    "position_3d": [
+      0.0,
+      0.009103819905922985,
+      0.3498815806285328
+    ],
+    "acceleration_magnitude": 52.765278275640995,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 110.0,
+    "elbow_angle": 3.336480942576543,
+    "angular_velocity": 184.599724705879,
+    "position_2d": [
+      0.0581996720243062,
+      -0.9983049625120889
+    ],
+    "position_3d": [
+      0.0,
+      0.020369885208507167,
+      0.3494067368792311
+    ],
+    "acceleration_magnitude": 53.80195286360875,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 120.0,
+    "elbow_angle": 5.257220175153208,
+    "angular_velocity": 192.07392325766648,
+    "position_2d": [
+      0.0916271051200127,
+      -0.9957933890156765
+    ],
+    "position_3d": [
+      0.0,
+      0.03206948679200444,
+      0.34852768615548674
+    ],
+    "acceleration_magnitude": 54.236497577339314,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 130.0,
+    "elbow_angle": 7.2537680932313435,
+    "angular_velocity": 199.65479180781358,
+    "position_2d": [
+      0.12626420869673058,
+      -0.9919966479793106
+    ],
+    "position_3d": [
+      0.0,
+      0.0441924730438557,
+      0.3471988267927587
+    ],
+    "acceleration_magnitude": 54.21001440402405,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 140.0,
+    "elbow_angle": 9.327333056912607,
+    "angular_velocity": 207.3564963681264,
+    "position_2d": [
+      0.16207458402984665,
+      -0.9867785107163372
+    ],
+    "position_3d": [
+      0.0,
+      0.05672610441044632,
+      0.34537247875071797
+    ],
+    "acceleration_magnitude": 53.85006421823743,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 150.0,
+    "elbow_angle": 11.462621967501207,
+    "angular_velocity": 213.52889105885993,
+    "position_2d": [
+      0.1987286188185207,
+      -0.9800545576969086
+    ],
+    "position_3d": [
+      0.0,
+      0.06955501658648224,
+      0.343019095193918
+    ],
+    "acceleration_magnitude": 53.27906548068431,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 160.0,
+    "elbow_angle": 13.63434078008271,
+    "angular_velocity": 217.17188125815028,
+    "position_2d": [
+      0.2357246250668454,
+      -0.9718198913055316
+    ],
+    "position_3d": [
+      0.0,
+      0.08250361877339589,
+      0.34013696195693605
+    ],
+    "acceleration_magnitude": 52.581586598718175,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 170.0,
+    "elbow_angle": 15.820467983271783,
+    "angular_velocity": 218.61272031890735,
+    "position_2d": [
+      0.2726239663530128,
+      -0.9621206644542832
+    ],
+    "position_3d": [
+      0.0,
+      0.09541838822355447,
+      0.3367422325589991
+    ],
+    "acceleration_magnitude": 51.80056419589118,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 180.0,
+    "elbow_angle": 18.012913426623697,
+    "angular_velocity": 219.24454433519145,
+    "position_2d": [
+      0.30923133736581115,
+      -0.9509868453301297
+    ],
+    "position_3d": [
+      0.0,
+      0.1082309680780339,
+      0.33284539586554535
+    ],
+    "acceleration_magnitude": 50.96250862374321,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 190.0,
+    "elbow_angle": 20.201228803536935,
+    "angular_velocity": 218.83153769132377,
+    "position_2d": [
+      0.34531832646700644,
+      -0.9384856170480325
+    ],
+    "position_3d": [
+      0.0,
+      0.12086141426345225,
+      0.32846996596681133
+    ],
+    "acceleration_magnitude": 50.10111684324323,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 200.0,
+    "elbow_angle": 22.357684924809348,
+    "angular_velocity": 215.6456121272413,
+    "position_2d": [
+      0.38038746067706086,
+      -0.9248272161650831
+    ],
+    "position_3d": [
+      0.0,
+      0.1331356112369713,
+      0.3236895256577791
+    ],
+    "acceleration_magnitude": 49.25376793709167,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 210.0,
+    "elbow_angle": 24.474485185567204,
+    "angular_velocity": 211.68002607578558,
+    "position_2d": [
+      0.41428797985486204,
+      -0.9101458508106145
+    ],
+    "position_3d": [
+      0.0,
+      0.1450007929492017,
+      0.31855104778371507
+    ],
+    "acceleration_magnitude": 48.425656839235735,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 220.0,
+    "elbow_angle": 26.53993906805337,
+    "angular_velocity": 206.54538824861675,
+    "position_2d": [
+      0.44682153497292076,
+      -0.8946231138778178
+    ],
+    "position_3d": [
+      0.0,
+      0.15638753724052226,
+      0.3131180898572362
+    ],
+    "acceleration_magnitude": 47.602950015918,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 230.0,
+    "elbow_angle": 28.529827111498207,
+    "angular_velocity": 198.98880434448358,
+    "position_2d": [
+      0.477616191339499,
+      -0.8785685936626412
+    ],
+    "position_3d": [
+      0.0,
+      0.16716566696882465,
+      0.3074990077819244
+    ],
+    "acceleration_magnitude": 46.78029890586045,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 240.0,
+    "elbow_angle": 30.437966895794204,
+    "angular_velocity": 190.81397842959973,
+    "position_2d": [
+      0.5066051953664575,
+      -0.8621781579393631
+    ],
+    "position_3d": [
+      0.0,
+      0.17731181837826013,
+      0.3017623552787771
+    ],
+    "acceleration_magnitude": 45.953647415969506,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 250.0,
+    "elbow_angle": 32.25564454499377,
+    "angular_velocity": 181.76776491995668,
+    "position_2d": [
+      0.533697830959223,
+      -0.8456752480884259
+    ],
+    "position_3d": [
+      0.0,
+      0.18679424083572801,
+      0.29598633683094905
+    ],
+    "acceleration_magnitude": 45.120501962697226,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 260.0,
+    "elbow_angle": 33.988851134255526,
+    "angular_velocity": 173.3206589261755,
+    "position_2d": [
+      0.5590315750942232,
+      -0.8291463670834431
+    ],
+    "position_3d": [
+      0.0,
+      0.19566105128297812,
+      0.2902012284792051
+    ],
+    "acceleration_magnitude": 44.269976361924684,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 270.0,
+    "elbow_angle": 35.657967997733124,
+    "angular_velocity": 166.91168634775977,
+    "position_2d": [
+      0.5829453124873899,
+      -0.8125113923195041
+    ],
+    "position_3d": [
+      0.0,
+      0.20403085937058646,
+      0.2843789873118264
+    ],
+    "acceleration_magnitude": 43.380342472620164,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 280.0,
+    "elbow_angle": 37.271583367781204,
+    "angular_velocity": 161.36153700480804,
+    "position_2d": [
+      0.6055937997053218,
+      -0.7957739313137058
+    ],
+    "position_3d": [
+      0.0,
+      0.21195782989686263,
+      0.278520875959797
+    ],
+    "acceleration_magnitude": 42.447877084210475,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 290.0,
+    "elbow_angle": 38.83599893559065,
+    "angular_velocity": 156.44155678094478,
+    "position_2d": [
+      0.6270933456598757,
+      -0.778944115985931
+    ],
+    "position_3d": [
+      0.0,
+      0.2194826709809565,
+      0.27263044059507585
+    ],
+    "acceleration_magnitude": 41.48729926237166,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 300.0,
+    "elbow_angle": 40.35004514287101,
+    "angular_velocity": 151.40462072803587,
+    "position_2d": [
+      0.647455687274334,
+      -0.762103098678991
+    ],
+    "position_3d": [
+      0.0,
+      0.2266094905460169,
+      0.2667360845376468
+    ],
+    "acceleration_magnitude": 40.50151646784041,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 310.0,
+    "elbow_angle": 41.80962246867389,
+    "angular_velocity": 145.95773258028828,
+    "position_2d": [
+      0.6666576588918254,
+      -0.7453640492007046
+    ],
+    "position_3d": [
+      0.0,
+      0.23333018061213887,
+      0.2608774172202466
+    ],
+    "acceleration_magnitude": 39.48180613859637,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 320.0,
+    "elbow_angle": 43.23369629488951,
+    "angular_velocity": 142.40738262156185,
+    "position_2d": [
+      0.6849757022011191,
+      -0.7285659114960594
+    ],
+    "position_3d": [
+      0.0,
+      0.2397414957703917,
+      0.25499806902362077
+    ],
+    "acceleration_magnitude": 38.43508249579836,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 330.0,
+    "elbow_angle": 44.635924061518125,
+    "angular_velocity": 140.2227766628613,
+    "position_2d": [
+      0.7025993504070009,
+      -0.7115856609064437
+    ],
+    "position_3d": [
+      0.0,
+      0.2459097726424503,
+      0.2490549813172553
+    ],
+    "acceleration_magnitude": 37.37075665872407,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 340.0,
+    "elbow_angle": 45.983948027520256,
+    "angular_velocity": 134.80239660021311,
+    "position_2d": [
+      0.71914515678075,
+      -0.6948598732685538
+    ],
+    "position_3d": [
+      0.0,
+      0.25170080487326246,
+      0.24320095564399383
+    ],
+    "acceleration_magnitude": 36.28387895261359,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 350.0,
+    "elbow_angle": 47.25359945823112,
+    "angular_velocity": 126.96514307108657,
+    "position_2d": [
+      0.7343651518768046,
+      -0.6787546122929534
+    ],
+    "position_3d": [
+      0.0,
+      0.2570278031568816,
+      0.23756411430253369
+    ],
+    "acceleration_magnitude": 35.166086252499085,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 360.0,
+    "elbow_angle": 48.46017285543556,
+    "angular_velocity": 120.6573397204437,
+    "position_2d": [
+      0.7484949428790176,
+      -0.6631404982992187
+    ],
+    "position_3d": [
+      0.0,
+      0.26197323000765615,
+      0.23209917440472655
+    ],
+    "acceleration_magnitude": 34.01823101538837,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 370.0,
+    "elbow_angle": 49.62481489651705,
+    "angular_velocity": 116.46420410814926,
+    "position_2d": [
+      0.7618189379015117,
+      -0.6477900167914079
+    ],
+    "position_3d": [
+      0.0,
+      0.2666366282655291,
+      0.22672650587699275
+    ],
+    "acceleration_magnitude": 32.84806834539785,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 380.0,
+    "elbow_angle": 50.76398895338292,
+    "angular_velocity": 113.9174056865869,
+    "position_2d": [
+      0.7745470980905672,
+      -0.6325162391903321
+    ],
+    "position_3d": [
+      0.0,
+      0.2710914843316985,
+      0.2213806837166162
+    ],
+    "acceleration_magnitude": 31.66105378067898,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 390.0,
+    "elbow_angle": 51.87141729039084,
+    "angular_velocity": 110.74283370079172,
+    "position_2d": [
+      0.7866271080618192,
+      -0.6174283706328199
+    ],
+    "position_3d": [
+      0.0,
+      0.27531948782163673,
+      0.21609992972148695
+    ],
+    "acceleration_magnitude": 30.455480595741086,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 400.0,
+    "elbow_angle": 52.92709471198776,
+    "angular_velocity": 105.56774215969256,
+    "position_2d": [
+      0.7978690918260041,
+      -0.6028307493059288
+    ],
+    "position_3d": [
+      0.0,
+      0.2792541821391014,
+      0.21099076225707508
+    ],
+    "acceleration_magnitude": 29.217620805073985,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 410.0,
+    "elbow_angle": 53.923082760220495,
+    "angular_velocity": 99.59880482327321,
+    "position_2d": [
+      0.8082271879559333,
+      -0.5888707945286846
+    ],
+    "position_3d": [
+      0.0,
+      0.28287951578457665,
+      0.2061047780850396
+    ],
+    "acceleration_magnitude": 27.939672915705696,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 420.0,
+    "elbow_angle": 54.85802942451218,
+    "angular_velocity": 93.49466642916866,
+    "position_2d": [
+      0.8177282923885063,
+      -0.5756044126197937
+    ],
+    "position_3d": [
+      0.0,
+      0.2862049023359772,
+      0.20146154441692776
+    ],
+    "acceleration_magnitude": 26.637265730928075,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 430.0,
+    "elbow_angle": 55.728912729541264,
+    "angular_velocity": 87.0883305029082,
+    "position_2d": [
+      0.8263825571290456,
+      -0.5631091095630221
+    ],
+    "position_3d": [
+      0.0,
+      0.28923389499516594,
+      0.1970881883470577
+    ],
+    "acceleration_magnitude": 25.322383484516465,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 440.0,
+    "elbow_angle": 56.52533721029022,
+    "angular_velocity": 79.64244807489536,
+    "position_2d": [
+      0.8341298168511361,
+      -0.5515681722506203
+    ],
+    "position_3d": [
+      0.0,
+      0.2919454358978976,
+      0.1930488602877171
+    ],
+    "acceleration_magnitude": 23.992755861343703,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 450.0,
+    "elbow_angle": 57.22520097498898,
+    "angular_velocity": 69.98637646987618,
+    "position_2d": [
+      0.8408047871131822,
+      -0.5413384430904168
+    ],
+    "position_3d": [
+      0.0,
+      0.29428167548961376,
+      0.18946845508164586
+    ],
+    "acceleration_magnitude": 22.65254758916635,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 460.0,
+    "elbow_angle": 57.84149212885538,
+    "angular_velocity": 61.62911538663991,
+    "position_2d": [
+      0.8465788394940577,
+      -0.5322633450848316
+    ],
+    "position_3d": [
+      0.0,
+      0.2963025938229202,
+      0.18629217077969107
+    ],
+    "acceleration_magnitude": 21.316100174668154,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 470.0,
+    "elbow_angle": 58.43046953113776,
+    "angular_velocity": 58.89774022823815,
+    "position_2d": [
+      0.8520054660660104,
+      -0.5235328889321477
+    ],
+    "position_3d": [
+      0.0,
+      0.2982019131231036,
+      0.18323651112625167
+    ],
+    "acceleration_magnitude": 19.99289747151142,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 480.0,
+    "elbow_angle": 59.011031968980234,
+    "angular_velocity": 58.056243784247386,
+    "position_2d": [
+      0.8572664523971749,
+      -0.5148730227875243
+    ],
+    "position_3d": [
+      0.0,
+      0.3000432583390112,
+      0.1802055579756335
+    ],
+    "acceleration_magnitude": 18.67319725478263,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 490.0,
+    "elbow_angle": 59.55486706849089,
+    "angular_velocity": 54.38350995106589,
+    "position_2d": [
+      0.8621147896195012,
+      -0.506713024817128
+    ],
+    "position_3d": [
+      0.0,
+      0.3017401763668254,
+      0.17734955868599478
+    ],
+    "acceleration_magnitude": 17.345444053686084,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 500.0,
+    "elbow_angle": 60.015045918439824,
+    "angular_velocity": 46.017884994893166,
+    "position_2d": [
+      0.866156674330606,
+      -0.4997725637853128
+    ],
+    "position_3d": [
+      0.0,
+      0.3031548360157121,
+      0.17492039732485948
+    ],
+    "acceleration_magnitude": 16.010390023496537,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 510.0,
+    "elbow_angle": 60.36003174638935,
+    "angular_velocity": 34.49858279495288,
+    "position_2d": [
+      0.8691501551861471,
+      -0.49454828656046956
+    ],
+    "position_3d": [
+      0.0,
+      0.3042025543151515,
+      0.17309190029616434
+    ],
+    "acceleration_magnitude": 14.718609418176637,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 520.0,
+    "elbow_angle": 60.58922700905663,
+    "angular_velocity": 22.91952626672753,
+    "position_2d": [
+      0.8711214939536666,
+      -0.49106755418367054
+    ],
+    "position_3d": [
+      0.0,
+      0.30489252288378327,
+      0.17187364396428467
+    ],
+    "acceleration_magnitude": 13.600961898588684,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 530.0,
+    "elbow_angle": 60.688378815807596,
+    "angular_velocity": 9.915180675096735,
+    "position_2d": [
+      0.871969994066433,
+      -0.4895593216840884
+    ],
+    "position_3d": [
+      0.0,
+      0.30518949792325156,
+      0.17134576258943093
+    ],
+    "acceleration_magnitude": 12.801068067727405,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 540.0,
+    "elbow_angle": 60.65684581985653,
+    "angular_velocity": -3.1532995951067733,
+    "position_2d": [
+      0.8717004307986408,
+      -0.4900391402178649
+    ],
+    "position_3d": [
+      0.0,
+      0.30509515077952426,
+      0.1715136990762527
+    ],
+    "acceleration_magnitude": 12.397365581755437,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 550.0,
+    "elbow_angle": 60.52411303223252,
+    "angular_velocity": -13.273278762400764,
+    "position_2d": [
+      0.8705628562008603,
+      -0.4920572257404625
+    ],
+    "position_3d": [
+      0.0,
+      0.30469699967030106,
+      0.17222002900916186
+    ],
+    "acceleration_magnitude": 12.394255394522785,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 560.0,
+    "elbow_angle": 60.29123565116706,
+    "angular_velocity": -23.287738106546385,
+    "position_2d": [
+      0.8685557155767475,
+      -0.49559153436975106
+    ],
+    "position_3d": [
+      0.0,
+      0.3039945004518616,
+      0.17345703702941287
+    ],
+    "acceleration_magnitude": 12.742604072111678,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 570.0,
+    "elbow_angle": 59.950602662503144,
+    "angular_velocity": -34.06329886639128,
+    "position_2d": [
+      0.865594008890716,
+      -0.5007464545780619
+    ],
+    "position_3d": [
+      0.0,
+      0.3029579031117506,
+      0.17526125910232165
+    ],
+    "acceleration_magnitude": 13.375097446343727,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 580.0,
+    "elbow_angle": 59.560567838228536,
+    "angular_velocity": -39.00348242746077,
+    "position_2d": [
+      0.8621652018801769,
+      -0.5066272442999031
+    ],
+    "position_3d": [
+      0.0,
+      0.3017578206580619,
+      0.1773195355049661
+    ],
+    "acceleration_magnitude": 14.237590785827027,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 590.0,
+    "elbow_angle": 59.18790219487954,
+    "angular_velocity": -37.2665643348995,
+    "position_2d": [
+      0.8588517617090677,
+      -0.5122242198580915
+    ],
+    "position_3d": [
+      0.0,
+      0.3005981165981737,
+      0.17927847695033203
+    ],
+    "acceleration_magnitude": 15.28842405914355,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 600.0,
+    "elbow_angle": 58.82424201281603,
+    "angular_velocity": -36.366018206351214,
+    "position_2d": [
+      0.8555833623431395,
+      -0.517665055882284
+    ],
+    "position_3d": [
+      0.0,
+      0.2994541768200988,
+      0.18118276955879936
+    ],
+    "acceleration_magnitude": 16.49792835845462,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 610.0,
+    "elbow_angle": 58.40540224173944,
+    "angular_velocity": -41.88397710765912,
+    "position_2d": [
+      0.8517763353665562,
+      -0.5239055969442588
+    ],
+    "position_3d": [
+      0.0,
+      0.2981217173782946,
+      0.18336695893049054
+    ],
+    "acceleration_magnitude": 17.82951466486254,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 620.0,
+    "elbow_angle": 57.89142446966977,
+    "angular_velocity": -51.397777206966566,
+    "position_2d": [
+      0.8470423768100475,
+      -0.5315253633534206
+    ],
+    "position_3d": [
+      0.0,
+      0.2964648318835166,
+      0.1860338771736972
+    ],
+    "acceleration_magnitude": 19.23605625329805,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 630.0,
+    "elbow_angle": 57.28548283796192,
+    "angular_velocity": -60.59416317078501,
+    "position_2d": [
+      0.8413738730159468,
+      -0.5404535186361039
+    ],
+    "position_3d": [
+      0.0,
+      0.29448085555558134,
+      0.18915873152263635
+    ],
+    "acceleration_magnitude": 20.68614597809613,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 640.0,
+    "elbow_angle": 56.59375605987171,
+    "angular_velocity": -69.17267780902137,
+    "position_2d": [
+      0.834787868393968,
+      -0.5505717162933955
+    ],
+    "position_3d": [
+      0.0,
+      0.2921757539378888,
+      0.19270010070268842
+    ],
+    "acceleration_magnitude": 22.15471339295327,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 650.0,
+    "elbow_angle": 55.8560699459409,
+    "angular_velocity": -73.76861139308062,
+    "position_2d": [
+      0.8276302358509274,
+      -0.561273723512279
+    ],
+    "position_3d": [
+      0.0,
+      0.2896705825478246,
+      0.19644580322929764
+    ],
+    "acceleration_magnitude": 23.61451432554966,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 660.0,
+    "elbow_angle": 55.103835878454134,
+    "angular_velocity": -75.22340674867678,
+    "position_2d": [
+      0.8201901784631629,
+      -0.5720909640542883
+    ],
+    "position_3d": [
+      0.0,
+      0.287066562462107,
+      0.20023183741900089
+    ],
+    "acceleration_magnitude": 25.057682435329763,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 670.0,
+    "elbow_angle": 54.31965257408052,
+    "angular_velocity": -78.4183304373613,
+    "position_2d": [
+      0.8122836349919347,
+      -0.5832626306598852
+    ],
+    "position_3d": [
+      0.0,
+      0.2842992722471771,
+      0.2041419207309598
+    ],
+    "acceleration_magnitude": 26.480693282000335,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 680.0,
+    "elbow_angle": 53.50879035229403,
+    "angular_velocity": -81.08622217864934,
+    "position_2d": [
+      0.8039481092191709,
+      -0.5946994515576082
+    ],
+    "position_3d": [
+      0.0,
+      0.2813818382267098,
+      0.20814480804516286
+    ],
+    "acceleration_magnitude": 27.86632556212817,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 690.0,
+    "elbow_angle": 52.65745998608057,
+    "angular_velocity": -85.13303662134604,
+    "position_2d": [
+      0.7950233374916577,
+      -0.6065788430563878
+    ],
+    "position_3d": [
+      0.0,
+      0.27825816812208015,
+      0.2123025950697357
+    ],
+    "acceleration_magnitude": 29.206823379655525,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 700.0,
+    "elbow_angle": 51.7259664653848,
+    "angular_velocity": -93.14935206957671,
+    "position_2d": [
+      0.7850571739837563,
+      -0.6194233072597756
+    ],
+    "position_3d": [
+      0.0,
+      0.2747700108943147,
+      0.21679815754092144
+    ],
+    "acceleration_magnitude": 30.505286583639045,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 710.0,
+    "elbow_angle": 50.70523820531449,
+    "angular_velocity": -102.07282600703138,
+    "position_2d": [
+      0.7738981126607478,
+      -0.6333101224677626
+    ],
+    "position_3d": [
+      0.0,
+      0.2708643394312617,
+      0.22165854286371692
+    ],
+    "acceleration_magnitude": 31.76097158415111,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 720.0,
+    "elbow_angle": 49.60245152546466,
+    "angular_velocity": -110.2786679849828,
+    "position_2d": [
+      0.7615660380696707,
+      -0.64808731638481
+    ],
+    "position_3d": [
+      0.0,
+      0.2665481133243847,
+      0.22683056073468347
+    ],
+    "acceleration_magnitude": 32.97213844102691,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 730.0,
+    "elbow_angle": 48.44686809895666,
+    "angular_velocity": -115.55834265080023,
+    "position_2d": [
+      0.7483409336468807,
+      -0.6633142897816351
+    ],
+    "position_3d": [
+      0.0,
+      0.2619193267764082,
+      0.23216000142357227
+    ],
+    "acceleration_magnitude": 34.142544183552914,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 740.0,
+    "elbow_angle": 47.24546361242466,
+    "angular_velocity": -120.14044865319988,
+    "position_2d": [
+      0.7342687631534339,
+      -0.6788588833160588
+    ],
+    "position_3d": [
+      0.0,
+      0.2569940671037019,
+      0.23760060916062056
+    ],
+    "acceleration_magnitude": 35.27094858594887,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 750.0,
+    "elbow_angle": 45.97503414769099,
+    "angular_velocity": -127.04294647336667,
+    "position_2d": [
+      0.7190370441747596,
+      -0.6949717469828719
+    ],
+    "position_3d": [
+      0.0,
+      0.25166296546116584,
+      0.24324011144400515
+    ],
+    "acceleration_magnitude": 36.355758076219836,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 760.0,
+    "elbow_angle": 44.623556254599066,
+    "angular_velocity": -135.1477893091925,
+    "position_2d": [
+      0.7024457319043415,
+      -0.7117373066865148
+    ],
+    "position_3d": [
+      0.0,
+      0.24585600616651948,
+      0.24910805734028016
+    ],
+    "acceleration_magnitude": 37.40601774552395,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 770.0,
+    "elbow_angle": 43.19327094609679,
+    "angular_velocity": -143.02853085022775,
+    "position_2d": [
+      0.6844614881098413,
+      -0.7290490184442069
+    ],
+    "position_3d": [
+      0.0,
+      0.23956152083844445,
+      0.2551671564554724
+    ],
+    "acceleration_magnitude": 38.42644496255584,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 780.0,
+    "elbow_angle": 41.7112703652958,
+    "angular_velocity": -148.20005808009853,
+    "position_2d": [
+      0.6653772092340262,
+      -0.7465073137163084
+    ],
+    "position_3d": [
+      0.0,
+      0.23288202323190915,
+      0.26127755980070794
+    ],
+    "acceleration_magnitude": 39.41528149404988,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 790.0,
+    "elbow_angle": 40.203027925112025,
+    "angular_velocity": -150.82424401837784,
+    "position_2d": [
+      0.645498051351985,
+      -0.76376191689609
+    ],
+    "position_3d": [
+      0.0,
+      0.22592431797319473,
+      0.2673166709136315
+    ],
+    "acceleration_magnitude": 40.37718326469198,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 800.0,
+    "elbow_angle": 38.658268970914435,
+    "angular_velocity": -154.475895419759,
+    "position_2d": [
+      0.6246740688514977,
+      -0.7808855919432209
+    ],
+    "position_3d": [
+      0.0,
+      0.21863592409802418,
+      0.2733099571801273
+    ],
+    "acceleration_magnitude": 41.317850075005914,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 810.0,
+    "elbow_angle": 37.05782051470919,
+    "angular_velocity": -160.04484562052426,
+    "position_2d": [
+      0.6026206662699505,
+      -0.7980277768250682
+    ],
+    "position_3d": [
+      0.0,
+      0.21091723319448266,
+      0.27930972188877384
+    ],
+    "acceleration_magnitude": 42.24364222303495,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 820.0,
+    "elbow_angle": 35.399500601443606,
+    "angular_velocity": -165.83199132655864,
+    "position_2d": [
+      0.5792740675452807,
+      -0.8151328447986534
+    ],
+    "position_3d": [
+      0.0,
+      0.20274592364084823,
+      0.2852964956795287
+    ],
+    "acceleration_magnitude": 43.15486151047284,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 830.0,
+    "elbow_angle": 33.6982397314564,
+    "angular_velocity": -170.1260869987209,
+    "position_2d": [
+      0.5548188674907726,
+      -0.8319711679356782
+    ],
+    "position_3d": [
+      0.0,
+      0.1941866036217704,
+      0.29118990877748735
+    ],
+    "acceleration_magnitude": 44.04523760643581,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 840.0,
+    "elbow_angle": 31.97424681513212,
+    "angular_velocity": -172.39929163242778,
+    "position_2d": [
+      0.5295380318652357,
+      -0.8482861974642123
+    ],
+    "position_3d": [
+      0.0,
+      0.1853383111528325,
+      0.2969001691124743
+    ],
+    "acceleration_magnitude": 44.91489854367554,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 850.0,
+    "elbow_angle": 30.233213492536407,
+    "angular_velocity": -174.10333225957118,
+    "position_2d": [
+      0.5035208690526055,
+      -0.8639830637393934
+    ],
+    "position_3d": [
+      0.0,
+      0.17623230416841193,
+      0.3023940723087877
+    ],
+    "acceleration_magnitude": 45.757576752895524,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 860.0,
+    "elbow_angle": 28.461608798779253,
+    "angular_velocity": -177.16046937571548,
+    "position_2d": [
+      0.4765697992642542,
+      -0.8791366369508372
+    ],
+    "position_3d": [
+      0.0,
+      0.16679942974248896,
+      0.307697822932793
+    ],
+    "acceleration_magnitude": 46.56208100641541,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 870.0,
+    "elbow_angle": 26.64046966483582,
+    "angular_velocity": -182.11391339434329,
+    "position_2d": [
+      0.448390543069893,
+      -0.8938377486353362
+    ],
+    "position_3d": [
+      0.0,
+      0.15693669007446254,
+      0.31284321202236764
+    ],
+    "acceleration_magnitude": 47.321933216575395,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 880.0,
+    "elbow_angle": 24.76862805913663,
+    "angular_velocity": -187.18416056991884,
+    "position_2d": [
+      0.41895497179050223,
+      -0.9080070107725048
+    ],
+    "position_3d": [
+      0.0,
+      0.14663424012667578,
+      0.31780245377037664
+    ],
+    "acceleration_magnitude": 48.03871357858028,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 890.0,
+    "elbow_angle": 22.853136156483515,
+    "angular_velocity": -191.5491902653116,
+    "position_2d": [
+      0.3883703563841544,
+      -0.9215033729086644
+    ],
+    "position_3d": [
+      0.0,
+      0.13592962473445402,
+      0.3225261805180325
+    ],
+    "acceleration_magnitude": 48.71278651378228,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 900.0,
+    "elbow_angle": 20.895187629068175,
+    "angular_velocity": -195.794852741534,
+    "position_2d": [
+      0.35665953262301775,
+      -0.9342344340630624
+    ],
+    "position_3d": [
+      0.0,
+      0.1248308364180562,
+      0.3269820519220718
+    ],
+    "acceleration_magnitude": 49.33474571127576,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 910.0,
+    "elbow_angle": 18.895059665947173,
+    "angular_velocity": -200.01279631210025,
+    "position_2d": [
+      0.3238358406938319,
+      -0.9461132851208248
+    ],
+    "position_3d": [
+      0.0,
+      0.11334254424284117,
+      0.33113964979228866
+    ],
+    "acceleration_magnitude": 49.90575027668123,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 920.0,
+    "elbow_angle": 16.854984836924302,
+    "angular_velocity": -204.00748290228705,
+    "position_2d": [
+      0.2899503711071629,
+      -0.9570416826318583
+    ],
+    "position_3d": [
+      0.0,
+      0.101482629887507,
+      0.3349645889211504
+    ],
+    "acceleration_magnitude": 50.44149543865946,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 930.0,
+    "elbow_angle": 14.782036397734828,
+    "angular_velocity": -207.29484391894744,
+    "position_2d": [
+      0.2551426230449749,
+      -0.9669034294621827
+    ],
+    "position_3d": [
+      0.0,
+      0.08929991806574122,
+      0.3384162003117639
+    ],
+    "acceleration_magnitude": 50.94917734342032,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 940.0,
+    "elbow_angle": 12.690066797561599,
+    "angular_velocity": -209.1969600173229,
+    "position_2d": [
+      0.21967707546687082,
+      -0.9755726433814772
+    ],
+    "position_3d": [
+      0.0,
+      0.07688697641340478,
+      0.341450425183517
+    ],
+    "acceleration_magnitude": 51.41990658989425,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 950.0,
+    "elbow_angle": 10.588300812881869,
+    "angular_velocity": -210.176598467973,
+    "position_2d": [
+      0.183750641864038,
+      -0.9829728895623492
+    ],
+    "position_3d": [
+      0.0,
+      0.06431272465241329,
+      0.3440405113468222
+    ],
+    "acceleration_magnitude": 51.849528372476584,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 960.0,
+    "elbow_angle": 8.468376814336324,
+    "angular_velocity": -211.9923998545545,
+    "position_2d": [
+      0.14726352239464444,
+      -0.9890972929757326
+    ],
+    "position_3d": [
+      0.0,
+      0.05154223283812555,
+      0.34618405254150636
+    ],
+    "acceleration_magnitude": 52.24237166903634,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 970.0,
+    "elbow_angle": 6.32590536941251,
+    "angular_velocity": -214.24714449238138,
+    "position_2d": [
+      0.11018370339239439,
+      -0.9939112392496309
+    ],
+    "position_3d": [
+      0.0,
+      0.03856429618733803,
+      0.34786893373737077
+    ],
+    "acceleration_magnitude": 52.58952083385864,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 980.0,
+    "elbow_angle": 4.171393062713776,
+    "angular_velocity": -215.45123066987344,
+    "position_2d": [
+      0.07274024361704023,
+      -0.9973509196659587
+    ],
+    "position_3d": [
+      0.0,
+      0.02545908526596408,
+      0.3490728218830855
+    ],
+    "acceleration_magnitude": 52.87804251929667,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 990.0,
+    "elbow_angle": 2.0087801189527283,
+    "angular_velocity": -216.26129437610473,
+    "position_2d": [
+      0.03505264492569269,
+      -0.9993854672165857
+    ],
+    "position_3d": [
+      0.0,
+      0.01226842572399244,
+      0.349784913525805
+    ],
+    "acceleration_magnitude": 53.108439628652945,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1000.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 15799.121988104727,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.290017023825946,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1010.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.43455032954181,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1020.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.55258893668499,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1030.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.64088930047397,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1040.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.691729195638196,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1050.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.705511152696815,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1060.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.67773009995154,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1070.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.60519864635538,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1080.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.48595112648898,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1090.0,
+    "elbow_angle": 160.0,
+    "angular_velocity": 0.0,
+    "position_2d": [
+      0.3420201433256689,
+      0.9396926207859083
+    ],
+    "position_3d": [
+      0.0,
+      0.1197070501639841,
+      -0.3288924172750679
+    ],
+    "acceleration_magnitude": 53.31985234701877,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1100.0,
+    "elbow_angle": 158.00343612385927,
+    "angular_velocity": -199.65638761407263,
+    "position_2d": [
+      0.3745509879736374,
+      0.9272063186842355
+    ],
+    "position_3d": [
+      0.0,
+      0.13109284579077307,
+      -0.3245222115394824
+    ],
+    "acceleration_magnitude": 53.10987463439261,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1110.0,
+    "elbow_angle": 155.8438546445361,
+    "angular_velocity": -215.95814793231796,
+    "position_2d": [
+      0.40922476985453526,
+      0.9124336073038425
+    ],
+    "position_3d": [
+      0.0,
+      0.14322866944908733,
+      -0.31935176255634484
+    ],
+    "acceleration_magnitude": 52.85767820255161,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1120.0,
+    "elbow_angle": 153.69962722478954,
+    "angular_velocity": -214.42274197465565,
+    "position_2d": [
+      0.44307702349428724,
+      0.8964835476747149
+    ],
+    "position_3d": [
+      0.0,
+      0.15507695822300052,
+      -0.3137692416861502
+    ],
+    "acceleration_magnitude": 52.56534495012455,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1130.0,
+    "elbow_angle": 151.56918471434875,
+    "angular_velocity": -213.0442510440787,
+    "position_2d": [
+      0.47609724006192694,
+      0.8793926415460934
+    ],
+    "position_3d": [
+      0.0,
+      0.16663403402167443,
+      -0.30778742454113267
+    ],
+    "acceleration_magnitude": 52.23238739985522,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1140.0,
+    "elbow_angle": 149.45092405384955,
+    "angular_velocity": -211.8260660499203,
+    "position_2d": [
+      0.5082761938130121,
+      0.8611941191177267
+    ],
+    "position_3d": [
+      0.0,
+      0.17789666783455424,
+      -0.30141794169120434
+    ],
+    "acceleration_magnitude": 51.855326761230714,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1150.0,
+    "elbow_angle": 147.34275647683236,
+    "angular_velocity": -210.81675770171842,
+    "position_2d": [
+      0.5396122000148994,
+      0.8419136972368844
+    ],
+    "position_3d": [
+      0.0,
+      0.18886427000521477,
+      -0.2946697940329095
+    ],
+    "acceleration_magnitude": 51.42944905863018,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1160.0,
+    "elbow_angle": 145.24238597113091,
+    "angular_velocity": -210.03705057014486,
+    "position_2d": [
+      0.5701059461203128,
+      0.8215711838899067
+    ],
+    "position_3d": [
+      0.0,
+      0.1995370811421095,
+      -0.2875499143614673
+    ],
+    "acceleration_magnitude": 50.95826481675149,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1170.0,
+    "elbow_angle": 143.16603478140195,
+    "angular_velocity": -207.63511897289675,
+    "position_2d": [
+      0.5994981707108918,
+      0.8003761261521325
+    ],
+    "position_3d": [
+      0.0,
+      0.20982435974881214,
+      -0.2801316441532464
+    ],
+    "acceleration_magnitude": 50.454286917799514,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1180.0,
+    "elbow_angle": 141.1409352930298,
+    "angular_velocity": -202.5099488372149,
+    "position_2d": [
+      0.6274068772161727,
+      0.7786916016125065
+    ],
+    "position_3d": [
+      0.0,
+      0.21959240702566044,
+      -0.27254206056437724
+    ],
+    "acceleration_magnitude": 49.92109739716722,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1190.0,
+    "elbow_angle": 139.16841826009681,
+    "angular_velocity": -197.25170329329842,
+    "position_2d": [
+      0.6538377644261361,
+      0.7566347717427693
+    ],
+    "position_3d": [
+      0.0,
+      0.2288432175491476,
+      -0.2648221701099692
+    ],
+    "acceleration_magnitude": 49.34514461493841,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1200.0,
+    "elbow_angle": 137.23553894310442,
+    "angular_velocity": -193.28793169923983,
+    "position_2d": [
+      0.6789860618127586,
+      0.7341511614538254
+    ],
+    "position_3d": [
+      0.0,
+      0.23764512163446547,
+      -0.2569529065088389
+    ],
+    "acceleration_magnitude": 48.70781185791076,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1210.0,
+    "elbow_angle": 135.34698351950288,
+    "angular_velocity": -188.8555423601531,
+    "position_2d": [
+      0.7028115986546727,
+      0.7113760305186444
+    ],
+    "position_3d": [
+      0.0,
+      0.24598405952913543,
+      -0.24898161068152552
+    ],
+    "acceleration_magnitude": 48.01280524898482,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1220.0,
+    "elbow_angle": 133.50176915332568,
+    "angular_velocity": -184.52143661772027,
+    "position_2d": [
+      0.72535311596332,
+      0.6883769731493802
+    ],
+    "position_3d": [
+      0.0,
+      0.25387359058716197,
+      -0.24093194060228304
+    ],
+    "acceleration_magnitude": 47.28442767469544,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1230.0,
+    "elbow_angle": 131.68567797308816,
+    "angular_velocity": -181.6091180237521,
+    "position_2d": [
+      0.7468044442776556,
+      0.6650436993214369
+    ],
+    "position_3d": [
+      0.0,
+      0.26138155549717945,
+      -0.2327652947625029
+    ],
+    "acceleration_magnitude": 46.529463975512854,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1240.0,
+    "elbow_angle": 129.8952109279992,
+    "angular_velocity": -179.0467045088974,
+    "position_2d": [
+      0.7672187647506123,
+      0.6413855057721092
+    ],
+    "position_3d": [
+      0.0,
+      0.2685265676627143,
+      -0.2244849270202382
+    ],
+    "acceleration_magnitude": 45.744908131509185,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1250.0,
+    "elbow_angle": 128.12741888424637,
+    "angular_velocity": -176.779204375282,
+    "position_2d": [
+      0.7866396494654874,
+      0.6174123920758435
+    ],
+    "position_3d": [
+      0.0,
+      0.2753238773129206,
+      -0.21609433722654522
+    ],
+    "acceleration_magnitude": 44.92953159928469,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1260.0,
+    "elbow_angle": 126.37150499470036,
+    "angular_velocity": -175.5913889546008,
+    "position_2d": [
+      0.8051888238046665,
+      0.5930185140617936
+    ],
+    "position_3d": [
+      0.0,
+      0.28181608833163324,
+      -0.20755647992162776
+    ],
+    "acceleration_magnitude": 44.07846173377306,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1270.0,
+    "elbow_angle": 124.62815740699976,
+    "angular_velocity": -174.33475877005975,
+    "position_2d": [
+      0.8228572083227313,
+      0.5682481981593265
+    ],
+    "position_3d": [
+      0.0,
+      0.28800002291295596,
+      -0.19888686935576425
+    ],
+    "acceleration_magnitude": 43.19595949859091,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1280.0,
+    "elbow_angle": 122.91466796714838,
+    "angular_velocity": -171.34894398513865,
+    "position_2d": [
+      0.8394807820159254,
+      0.5433893784625631
+    ],
+    "position_3d": [
+      0.0,
+      0.29381827370557384,
+      -0.19018628246189706
+    ],
+    "acceleration_magnitude": 42.283293636897966,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1290.0,
+    "elbow_angle": 121.26012725111651,
+    "angular_velocity": -165.45407160318604,
+    "position_2d": [
+      0.8548201621346466,
+      0.5189243590429113
+    ],
+    "position_3d": [
+      0.0,
+      0.2991870567471263,
+      -0.18162352566501896
+    ],
+    "acceleration_magnitude": 41.337827202509935,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1300.0,
+    "elbow_angle": 119.69003154733186,
+    "angular_velocity": -157.00957037846592,
+    "position_2d": [
+      0.8687177023398749,
+      0.49530753440799646
+    ],
+    "position_3d": [
+      0.0,
+      0.3040511958189562,
+      -0.17335763704279875
+    ],
+    "acceleration_magnitude": 40.361277300718314,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1310.0,
+    "elbow_angle": 118.20286891037365,
+    "angular_velocity": -148.71626369582032,
+    "position_2d": [
+      0.8812797894304526,
+      0.4725948928431383
+    ],
+    "position_3d": [
+      0.0,
+      0.30844792630065837,
+      -0.1654082124950984
+    ],
+    "acceleration_magnitude": 39.354958262991914,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1320.0,
+    "elbow_angle": 116.77913063834616,
+    "angular_velocity": -142.37382720274923,
+    "position_2d": [
+      0.8927499864565184,
+      0.4505523961559699
+    ],
+    "position_3d": [
+      0.0,
+      0.3124624952597814,
+      -0.15769333865458945
+    ],
+    "acceleration_magnitude": 38.3264524997614,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1330.0,
+    "elbow_angle": 115.41384370790473,
+    "angular_velocity": -136.5286930441428,
+    "position_2d": [
+      0.9032316279255074,
+      0.42915338320353213
+    ],
+    "position_3d": [
+      0.0,
+      0.3161310697739276,
+      -0.15020368412123625
+    ],
+    "acceleration_magnitude": 37.28247903623049,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1340.0,
+    "elbow_angle": 114.10180504502898,
+    "angular_velocity": -131.203866287575,
+    "position_2d": [
+      0.9128213127458416,
+      0.408359218087407
+    ],
+    "position_3d": [
+      0.0,
+      0.3194874594610445,
+      -0.14292572633059245
+    ],
+    "acceleration_magnitude": 36.21217092645992,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1350.0,
+    "elbow_angle": 112.8128162071516,
+    "angular_velocity": -128.89888378773833,
+    "position_2d": [
+      0.9217764470977533,
+      0.38772178372622135
+    ],
+    "position_3d": [
+      0.0,
+      0.32262175648421365,
+      -0.13570262430417745
+    ],
+    "acceleration_magnitude": 35.10933682331505,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1360.0,
+    "elbow_angle": 111.54619922613794,
+    "angular_velocity": -126.66169810136552,
+    "position_2d": [
+      0.9301217451272438,
+      0.3672513298021545
+    ],
+    "position_3d": [
+      0.0,
+      0.3255426107945353,
+      -0.12853796543075408
+    ],
+    "acceleration_magnitude": 33.98400003683608,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1370.0,
+    "elbow_angle": 110.33909131792578,
+    "angular_velocity": -120.71079082121656,
+    "position_2d": [
+      0.9376520117861962,
+      0.3475754663282483
+    ],
+    "position_3d": [
+      0.0,
+      0.3281782041251686,
+      -0.1216514132148869
+    ],
+    "acceleration_magnitude": 32.846028606454276,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1380.0,
+    "elbow_angle": 109.21585917790418,
+    "angular_velocity": -112.32321400215994,
+    "position_2d": [
+      0.9442853054606677,
+      0.3291280326727785
+    ],
+    "position_3d": [
+      0.0,
+      0.3304998569112337,
+      -0.11519481143547247
+    ],
+    "acceleration_magnitude": 31.69349227413645,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1390.0,
+    "elbow_angle": 108.16397896941876,
+    "angular_velocity": -105.18802084854144,
+    "position_2d": [
+      0.9501682242361292,
+      0.31173762309346104
+    ],
+    "position_3d": [
+      0.0,
+      0.3325588784826452,
+      -0.10910816808271136
+    ],
+    "acceleration_magnitude": 30.513527338352382,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1400.0,
+    "elbow_angle": 107.16063415415539,
+    "angular_velocity": -100.33448152633753,
+    "position_2d": [
+      0.9554813068778858,
+      0.2950516432879632
+    ],
+    "position_3d": [
+      0.0,
+      0.33441845740726,
+      -0.1032680751507871
+    ],
+    "acceleration_magnitude": 29.307295403955,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1410.0,
+    "elbow_angle": 106.21360253989823,
+    "angular_velocity": -94.70316142571562,
+    "position_2d": [
+      0.9602274235854233,
+      0.2792190806418862
+    ],
+    "position_3d": [
+      0.0,
+      0.33607959825489814,
+      -0.09772667822466018
+    ],
+    "acceleration_magnitude": 28.081129872494145,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1420.0,
+    "elbow_angle": 105.33134567711812,
+    "angular_velocity": -88.22568627801104,
+    "position_2d": [
+      0.9644129130585706,
+      0.26440070560776135
+    ],
+    "position_3d": [
+      0.0,
+      0.3375445195704997,
+      -0.09254024696271647
+    ],
+    "acceleration_magnitude": 26.82360842409833,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1430.0,
+    "elbow_angle": 104.49870308735309,
+    "angular_velocity": -83.26425897650296,
+    "position_2d": [
+      0.9681533075805787,
+      0.2503580895852687
+    ],
+    "position_3d": [
+      0.0,
+      0.3388536576532025,
+      -0.08762533135484403
+    ],
+    "acceleration_magnitude": 25.53378531094161,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1440.0,
+    "elbow_angle": 103.70957786053725,
+    "angular_velocity": -78.91252268158411,
+    "position_2d": [
+      0.9715095153267962,
+      0.237000551960314
+    ],
+    "position_3d": [
+      0.0,
+      0.34002833036437863,
+      -0.0829501931861099
+    ],
+    "acceleration_magnitude": 24.228752108274552,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1450.0,
+    "elbow_angle": 102.98336402489042,
+    "angular_velocity": -72.62138356468313,
+    "position_2d": [
+      0.9744353388223712,
+      0.2246681340424823
+    ],
+    "position_3d": [
+      0.0,
+      0.3410523685878299,
+      -0.0786338469148688
+    ],
+    "acceleration_magnitude": 22.905336632413047,
+    "movement_phase": "extension"
+  },
+  {
+    "timestamp": 1460.0,
+    "elbow_angle": 102.33761269683058,
+    "angular_velocity": -64.57513280598448,
+    "position_2d": [
+      0.9769055168401821,
+      0.2136717369406085
+    ],
+    "position_3d": [
+      0.0,
+      0.3419169308940637,
+      -0.07478510792921297
+    ],
+    "acceleration_magnitude": 21.556904312685074,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1470.0,
+    "elbow_angle": 101.77097641295475,
+    "angular_velocity": -56.66362838758232,
+    "position_2d": [
+      0.9789708521066618,
+      0.20400017334687906
+    ],
+    "position_3d": [
+      0.0,
+      0.3426397982373316,
+      -0.07140006067140767
+    ],
+    "acceleration_magnitude": 20.18872410152735,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1480.0,
+    "elbow_angle": 101.30015885882247,
+    "angular_velocity": -47.081755413228166,
+    "position_2d": [
+      0.9806141152607032,
+      0.19594886310328055
+    ],
+    "position_3d": [
+      0.0,
+      0.3432149403412461,
+      -0.06858210208614819
+    ],
+    "acceleration_magnitude": 18.810096760373348,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1490.0,
+    "elbow_angle": 100.93744888023969,
+    "angular_velocity": -36.27099785827852,
+    "position_2d": [
+      0.9818349089927737,
+      0.18973721691632328
+    ],
+    "position_3d": [
+      0.0,
+      0.34364221814747076,
+      -0.06640802592071314
+    ],
+    "acceleration_magnitude": 17.431157843026778,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1500.0,
+    "elbow_angle": 100.62824011559998,
+    "angular_velocity": -30.920876463970615,
+    "position_2d": [
+      0.9828445632659486,
+      0.18443580037120458
+    ],
+    "position_3d": [
+      0.0,
+      0.343995597143082,
+      -0.0645525301299216
+    ],
+    "acceleration_magnitude": 16.045765173629068,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1510.0,
+    "elbow_angle": 100.33499582364206,
+    "angular_velocity": -29.32442919579188,
+    "position_2d": [
+      0.983775643388055,
+      0.1794031311778546
+    ],
+    "position_3d": [
+      0.0,
+      0.34432147518581924,
+      -0.06279109591224911
+    ],
+    "acceleration_magnitude": 14.694092541000547,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1520.0,
+    "elbow_angle": 100.11183750357077,
+    "angular_velocity": -22.31583200712919,
+    "position_2d": [
+      0.9844669275988959,
+      0.17557012406440417
+    ],
+    "position_3d": [
+      0.0,
+      0.34456342465961354,
+      -0.061449543422541456
+    ],
+    "acceleration_magnitude": 13.521409341285267,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1530.0,
+    "elbow_angle": 100.04487760014004,
+    "angular_velocity": -6.695990343072822,
+    "position_2d": [
+      0.984671438938167,
+      0.17441948669641127
+    ],
+    "position_3d": [
+      0.0,
+      0.3446350036283584,
+      -0.061046820343743945
+    ],
+    "acceleration_magnitude": 12.690000248293657,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1540.0,
+    "elbow_angle": 100.07855141940803,
+    "angular_velocity": 3.3673819267988847,
+    "position_2d": [
+      0.9845687592351662,
+      0.1749981666707553
+    ],
+    "position_3d": [
+      0.0,
+      0.34459906573230814,
+      -0.06124935833476435
+    ],
+    "acceleration_magnitude": 12.272357120506886,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1550.0,
+    "elbow_angle": 100.10121929944205,
+    "angular_velocity": 2.266788003402098,
+    "position_2d": [
+      0.9844994478090686,
+      0.17538767705753766
+    ],
+    "position_3d": [
+      0.0,
+      0.344574806733174,
+      -0.06138568697013818
+    ],
+    "acceleration_magnitude": 12.254780427104405,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1560.0,
+    "elbow_angle": 100.14161126122535,
+    "angular_velocity": 4.0391961783299735,
+    "position_2d": [
+      0.9843755596493003,
+      0.17608167867534308
+    ],
+    "position_3d": [
+      0.0,
+      0.3445314458772551,
+      -0.06162858753637007
+    ],
+    "acceleration_magnitude": 12.600004051344685,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1570.0,
+    "elbow_angle": 100.2334766748856,
+    "angular_velocity": 9.186541366024414,
+    "position_2d": [
+      0.9840919732290757,
+      0.1776597540978371
+    ],
+    "position_3d": [
+      0.0,
+      0.3444321906301765,
+      -0.06218091393424298
+    ],
+    "acceleration_magnitude": 13.259788555876703,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1580.0,
+    "elbow_angle": 100.38695903884259,
+    "angular_velocity": 15.348236395699644,
+    "position_2d": [
+      0.983612532885168,
+      0.18029527212665375
+    ],
+    "position_3d": [
+      0.0,
+      0.3442643865098088,
+      -0.06310334524432881
+    ],
+    "acceleration_magnitude": 14.160593098039026,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1590.0,
+    "elbow_angle": 100.6125214538428,
+    "angular_velocity": 22.5562415000212,
+    "position_2d": [
+      0.9828951248394566,
+      0.18416615749596693
+    ],
+    "position_3d": [
+      0.0,
+      0.3440132936938098,
+      -0.06445815512358842
+    ],
+    "acceleration_magnitude": 15.248895506894376,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1600.0,
+    "elbow_angle": 100.94453159886937,
+    "angular_velocity": 33.201014502657245,
+    "position_2d": [
+      0.9818114467910511,
+      0.1898585867167007
+    ],
+    "position_3d": [
+      0.0,
+      0.34363400637686786,
+      -0.06645050535084523
+    ],
+    "acceleration_magnitude": 16.49284979441224,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1610.0,
+    "elbow_angle": 101.42396634977452,
+    "angular_velocity": 47.9434750905142,
+    "position_2d": [
+      0.9801884104385681,
+      0.19806736238440045
+    ],
+    "position_3d": [
+      0.0,
+      0.3430659436534988,
+      -0.06932357683454016
+    ],
+    "acceleration_magnitude": 17.837626984112568,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1620.0,
+    "elbow_angle": 102.00590533729236,
+    "angular_velocity": 58.193898751784445,
+    "position_2d": [
+      0.9781261665837905,
+      0.20801250501856614
+    ],
+    "position_3d": [
+      0.0,
+      0.34234415830432663,
+      -0.07280437675649815
+    ],
+    "acceleration_magnitude": 19.23481606972285,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1630.0,
+    "elbow_angle": 102.64474462993762,
+    "angular_velocity": 63.88392926452582,
+    "position_2d": [
+      0.9757461073392107,
+      0.21890530832388963
+    ],
+    "position_3d": [
+      0.0,
+      0.34151113756872375,
+      -0.07661685791336137
+    ],
+    "acceleration_magnitude": 20.672143166596577,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1640.0,
+    "elbow_angle": 103.34031750146056,
+    "angular_velocity": 69.55728715229412,
+    "position_2d": [
+      0.9730167520303721,
+      0.23073448001602542
+    ],
+    "position_3d": [
+      0.0,
+      0.3405558632106302,
+      -0.08075706800560889
+    ],
+    "acceleration_magnitude": 22.140206653138318,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1650.0,
+    "elbow_angle": 104.06696956264828,
+    "angular_velocity": 72.66520611877212,
+    "position_2d": [
+      0.9700122957032223,
+      0.24305584992870272
+    ],
+    "position_3d": [
+      0.0,
+      0.3395043034961278,
+      -0.08506954747504594
+    ],
+    "acceleration_magnitude": 23.60377054346357,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1660.0,
+    "elbow_angle": 104.818545041848,
+    "angular_velocity": 75.15754791997153,
+    "position_2d": [
+      0.9667406573123359,
+      0.2557586782482908
+    ],
+    "position_3d": [
+      0.0,
+      0.33835923005931756,
+      -0.08951553738690177
+    ],
+    "acceleration_magnitude": 25.04018702958503,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1670.0,
+    "elbow_angle": 105.62277207553348,
+    "angular_velocity": 80.42270336854784,
+    "position_2d": [
+      0.963055609164647,
+      0.2693026061079072
+    ],
+    "position_3d": [
+      0.0,
+      0.33706946320762643,
+      -0.0942559121377675
+    ],
+    "acceleration_magnitude": 26.44175242008419,
+    "movement_phase": "hold"
+  },
+  {
+    "timestamp": 1680.0,
+    "elbow_angle": 106.4869744888541,
+    "angular_velocity": 86.42024133206263,
+    "position_2d": [
+      0.9588842775869031,
+      0.28379736115165544
+    ],
+    "position_3d": [
+      0.0,
+      0.33560949715541605,
+      -0.09932907640307939
+    ],
+    "acceleration_magnitude": 27.795307015701724,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1690.0,
+    "elbow_angle": 107.40728518981891,
+    "angular_velocity": 92.0310700964805,
+    "position_2d": [
+      0.954202297601752,
+      0.29916212202004705
+    ],
+    "position_3d": [
+      0.0,
+      0.3339708041606132,
+      -0.10470674270701646
+    ],
+    "acceleration_magnitude": 29.109041367639808,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1700.0,
+    "elbow_angle": 108.3850946787787,
+    "angular_velocity": 97.78094889597924,
+    "position_2d": [
+      0.9489580946636565,
+      0.315402179086199
+    ],
+    "position_3d": [
+      0.0,
+      0.3321353331322798,
+      -0.11039076268016965
+    ],
+    "acceleration_magnitude": 30.390804985408373,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1710.0,
+    "elbow_angle": 109.43966117555316,
+    "angular_velocity": 105.45664967744557,
+    "position_2d": [
+      0.9429925040387612,
+      0.33281396804627483
+    ],
+    "position_3d": [
+      0.0,
+      0.3300473764135664,
+      -0.11648488881619619
+    ],
+    "acceleration_magnitude": 31.633439549521967,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1720.0,
+    "elbow_angle": 110.577488115388,
+    "angular_velocity": 113.7826939834838,
+    "position_2d": [
+      0.9361977043562774,
+      0.3514738373734756
+    ],
+    "position_3d": [
+      0.0,
+      0.32766919652469706,
+      -0.12301584308071645
+    ],
+    "acceleration_magnitude": 32.83458613650796,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1730.0,
+    "elbow_angle": 111.75795413731419,
+    "angular_velocity": 118.04660219261933,
+    "position_2d": [
+      0.9287581009574772,
+      0.3706863767470561
+    ],
+    "position_3d": [
+      0.0,
+      0.325065335335117,
+      -0.12974023186146963
+    ],
+    "acceleration_magnitude": 34.005277069058444,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1740.0,
+    "elbow_angle": 112.95754693787273,
+    "angular_velocity": 119.95928005585483,
+    "position_2d": [
+      0.9207941113011991,
+      0.3900489771721429
+    ],
+    "position_3d": [
+      0.0,
+      0.3222779389554197,
+      -0.13651714201025
+    ],
+    "acceleration_magnitude": 35.15419562702438,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1750.0,
+    "elbow_angle": 114.20475342979562,
+    "angular_velocity": 124.72064919228814,
+    "position_2d": [
+      0.912086104588373,
+      0.4099987046525973
+    ],
+    "position_3d": [
+      0.0,
+      0.3192301366059305,
+      -0.14349954662840905
+    ],
+    "acceleration_magnitude": 36.28038435471426,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1760.0,
+    "elbow_angle": 115.51164977160616,
+    "angular_velocity": 130.68963418105426,
+    "position_2d": [
+      0.9024977312186889,
+      0.4306946077502237
+    ],
+    "position_3d": [
+      0.0,
+      0.3158742059265411,
+      -0.1507431127125783
+    ],
+    "acceleration_magnitude": 37.38149601466852,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1770.0,
+    "elbow_angle": 116.85643098177489,
+    "angular_velocity": 134.47812101687333,
+    "position_2d": [
+      0.8921413134117613,
+      0.45175643537634025
+    ],
+    "position_3d": [
+      0.0,
+      0.31224945969411644,
+      -0.15811475238171907
+    ],
+    "acceleration_magnitude": 38.443876196554264,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1780.0,
+    "elbow_angle": 118.24207296688724,
+    "angular_velocity": 138.56419851123434,
+    "position_2d": [
+      0.8809562148887657,
+      0.473197788930653
+    ],
+    "position_3d": [
+      0.0,
+      0.308334675211068,
+      -0.16561922612572855
+    ],
+    "acceleration_magnitude": 39.461027969743476,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1790.0,
+    "elbow_angle": 119.6964370734993,
+    "angular_velocity": 145.43641066120614,
+    "position_2d": [
+      0.8686623227561281,
+      0.49540465179883836
+    ],
+    "position_3d": [
+      0.0,
+      0.3040318129646448,
+      -0.1733916281295934
+    ],
+    "acceleration_magnitude": 40.439999186344274,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1800.0,
+    "elbow_angle": 121.22311781451945,
+    "angular_velocity": 152.6680741020158,
+    "position_2d": [
+      0.8551551759774721,
+      0.5183720912616135
+    ],
+    "position_3d": [
+      0.0,
+      0.29930431159211524,
+      -0.18143023194156474
+    ],
+    "acceleration_magnitude": 41.37967168420646,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1810.0,
+    "elbow_angle": 122.81909481619493,
+    "angular_velocity": 159.59770016754788,
+    "position_2d": [
+      0.8403860231256902,
+      0.5419883136516753
+    ],
+    "position_3d": [
+      0.0,
+      0.29413510809399157,
+      -0.18969590977808634
+    ],
+    "acceleration_magnitude": 42.283585644306825,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1820.0,
+    "elbow_angle": 124.48134072692524,
+    "angular_velocity": 166.22459107303058,
+    "position_2d": [
+      0.8243106040287161,
+      0.566137817219282
+    ],
+    "position_3d": [
+      0.0,
+      0.28850871141005063,
+      -0.1981482360267487
+    ],
+    "acceleration_magnitude": 43.172184427947904,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1830.0,
+    "elbow_angle": 126.18172890242207,
+    "angular_velocity": 170.03881754968262,
+    "position_2d": [
+      0.8071486098303132,
+      0.5903483053664107
+    ],
+    "position_3d": [
+      0.0,
+      0.2825020134406096,
+      -0.20662190687824372
+    ],
+    "acceleration_magnitude": 44.06083807247558,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1840.0,
+    "elbow_angle": 127.91351464143727,
+    "angular_velocity": 173.17857390152085,
+    "position_2d": [
+      0.7889391683692754,
+      0.6144713082095828
+    ],
+    "position_3d": [
+      0.0,
+      0.27612870892924635,
+      -0.21506495787335397
+    ],
+    "acceleration_magnitude": 44.94696465807314,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1850.0,
+    "elbow_angle": 129.69297099380793,
+    "angular_velocity": 177.94563523706586,
+    "position_2d": [
+      0.7694779128463641,
+      0.6386734233092866
+    ],
+    "position_3d": [
+      0.0,
+      0.2693172694962274,
+      -0.22353569815825028
+    ],
+    "acceleration_magnitude": 45.80497169438228,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1860.0,
+    "elbow_angle": 131.51447271724751,
+    "angular_velocity": 182.15017234395816,
+    "position_2d": [
+      0.7487883213473578,
+      0.662809210718896
+    ],
+    "position_3d": [
+      0.0,
+      0.26207591247157525,
+      -0.23198322375161357
+    ],
+    "acceleration_magnitude": 46.60568335920657,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1870.0,
+    "elbow_angle": 133.36777934350542,
+    "angular_velocity": 185.3306626257904,
+    "position_2d": [
+      0.7269609442201569,
+      0.6866788081618203
+    ],
+    "position_3d": [
+      0.0,
+      0.2544363304770549,
+      -0.24033758285663706
+    ],
+    "acceleration_magnitude": 47.34666025830493,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1880.0,
+    "elbow_angle": 135.26030230069836,
+    "angular_velocity": 189.25229571929378,
+    "position_2d": [
+      0.7038870153055038,
+      0.710311952373258
+    ],
+    "position_3d": [
+      0.0,
+      0.2463604553569263,
+      -0.24860918333064028
+    ],
+    "acceleration_magnitude": 48.033904945045855,
+    "movement_phase": "flexion"
+  },
+  {
+    "timestamp": 1890.0,
+    "elbow_angle": 137.20197673756775,
+    "angular_velocity": 194.16744368693912,
+    "position_2d": [
+      0.6794159897519969,
+      0.733753305184593
+    ],
+    "position_3d": [
+      0.0,
+      0.2377955964131989,
+      -0.25681365681460755
+    ],
+    "acceleration_magnitude": 48.68070289392303,
+    "movement_phase": "flexion"
+  }
+]

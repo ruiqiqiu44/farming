@@ -1,0 +1,16 @@
+# IMU Rehabilitation System - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Serial communication
+pyserial>=3.5
+
+# Game/visualization interface
+pygame>=2.5.0
+
+# Optional: for advanced features
+# matplotlib>=3.7.0  # For alternative plotting
+# pandas>=2.0.0      # For data analysis
